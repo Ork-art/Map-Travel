@@ -28,7 +28,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:ems="10"
-        android:hint="Plase Name"
+        android:hint="Place Name"
         android:inputType="textPersonName"
         map:layout_constraintBottom_toTopOf="@+id/saveButton"
         map:layout_constraintEnd_toEndOf="parent"
